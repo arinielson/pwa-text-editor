@@ -2,9 +2,7 @@
 
 ## Description
 
-Built a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
-
-You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
+This application takes an existing text editor app and adds functionality for it to work as a PWA and function offline.
 
 ## User Story
 
